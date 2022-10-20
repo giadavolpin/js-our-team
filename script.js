@@ -1,9 +1,10 @@
 const Team1 = {
-    nome: 'Wayne Barnett'
-    role: 'Founder & Ceo'
-    const image = document.createElement("image1")
-    image1.src = "wa"
-    let image1 = document.getElementById('image1') 
+    nome: 'Wayne Barnett';
+    role: 'Founder & Ceo';
+    let image1 = document.createElement("image1");
+    image1.src = "img\wayne-barnett-founder-ceo.jpg";
+    let image1 = document.getElementById('image1'); 
+    src.appendChild(image1);
 }
 const Team2 = {
     nome: 'Angela Caroll'
